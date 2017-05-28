@@ -25,3 +25,6 @@ Our main language we will use is R and maybe Python at the end of it if we have 
 We will also be using plyr and dplyer packages on R to help clean and analyze the data. 
 
 ## Analysis
+
+## Progess as of May 24th
+Code for organizing our data set has been finalized (Cred to Eri and Daniel). Goal by next week is to work our way through all the categories, before finally being able to do visualizations and whatnot. 
